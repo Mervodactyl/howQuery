@@ -14,3 +14,13 @@
 h1 {
   color: blue;
 }
+
+.third-example {
+  margin: 20px;
+}
+
+.hover {
+  height: 300px;
+  width: 100%;
+  background-color: #ecebed;
+}
