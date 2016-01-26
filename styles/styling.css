@@ -15,12 +15,28 @@ h1 {
   color: blue;
 }
 
-.third-example {
+section {
   margin: 20px;
+  padding: 10px;
+  border: 4px solid #d2e5e5;
 }
 
 .hover {
   height: 300px;
   width: 100%;
   background-color: #ecebed;
+}
+
+.example-4 {
+  height: 700px;
+}
+
+#moving-box {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  background-color: #ffffd1;
 }
